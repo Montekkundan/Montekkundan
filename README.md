@@ -7,11 +7,19 @@
 I am Montek, currently a Student. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 
 💬 Ask me anything, I will be more than happy to help :D
+
+
+ <a align="right" href="https://app.daily.dev/Montek"><img src="https://api.daily.dev/devcards/7904c28307fd43e6a5362797b0e470c8.png?r=q96" width="400" alt="Montek's Dev Card"/>
+
+
+
 <h3>Summary</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montekkundan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
+
+
 
 <h2>🛠Tech Stack</h2>
 Languages 
