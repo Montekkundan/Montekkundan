@@ -9,7 +9,8 @@ I am Montek, currently a Student. I am very keen to learn new technologies and u
 💬 Ask me anything, I will be more than happy to help :D
 
 
- <a align="right" href="https://app.daily.dev/Montek"><img src="https://api.daily.dev/devcards/7904c28307fd43e6a5362797b0e470c8.png?r=q96" width="400" alt="Montek's Dev Card"/>
+
+ <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" width="400" alt="Montek's Dev Card"/></a>
 
 
 
