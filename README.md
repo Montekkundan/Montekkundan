@@ -14,12 +14,17 @@ I am Montek, currently a Student. I am very keen to learn new technologies and u
 
 
 
-<h3>Summary</h3>
-
+<h3 align="center">Summary</h3>
+<h1 align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montekkundan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ </h1>
+<h1 align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
-
+ 
+</h1>
 
 
 <h2>🛠Tech Stack</h2>
