@@ -9,7 +9,7 @@ I am Montek, currently a Student. I am very keen to learn new technologies and u
 
 
 
- <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" width="400" alt="Montek's Dev Card"/></a>
+ <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" img width="350" align="right" alt="Montek's Dev Card"/></a>
 
 
 
