@@ -18,7 +18,9 @@ I am Montek, currently a Student. I am very keen to learn new technologies and u
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montekkundan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
+</span>
 
+ <span align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
  
