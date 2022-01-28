@@ -1,6 +1,5 @@
-<h2 align="center"> Hey!  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/87750128/149607132-1654b169-0649-40a6-923f-e5bd170d448d.gif"></h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Montek.;Hi+there%2C+you+can+call+me+Monty!;Hi+there%2C+I'm+a+programmer.;Hi+there%2C+I'm+a+learner.;Hi+there%2C+I'm+a+musician.)
 
 <h2>About me</h2>
 
