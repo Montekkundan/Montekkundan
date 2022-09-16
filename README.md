@@ -22,38 +22,43 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Montek!;You+can+call+me+Monty!;I+love+to+code!)](https://git.io/typing-svg)
 
+I am a Student and Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 I am Montek, currently a Student. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [Discord](https://discord.com/users/702170848508903444)
+
+
 
 💬 Ask me anything, I will be more than happy to help :D
 
+### :hammer_and_wrench: Languages and Tools :
+
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
- <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" img width="320" align="right" alt="Montek's Dev Card"/></a>
+<div id="about" align="center">
 
+<h3>Summary</h3>
 
+ <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" img width="300" alt="Montek's Dev Card"/></a>
 
-<h3 align="center">Summary</h3>
-<span align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montekkundan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
-</span>
-
- <span align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
- 
-</span>
+
+</div>
 
 
-<h2>🛠Tech Stack</h2>
-Languages 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!--
