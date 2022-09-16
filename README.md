@@ -1,5 +1,19 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Montek.;Hi+there%2C+you+can+call+me+Monty!;Hi+there%2C+I'm+a+programmer.;Hi+there%2C+I'm+a+learner.;Hi+there%2C+I'm+a+musician.)
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952s94w3658uzag4fcvwavyoszs1j4ngkoibfphps7i&rid=giphy.gif&ct=s" width="100"/>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Montek.;Hi+there%2C+you+can+call+me+Monty!;Hi+there%2C+I'm+a+programmer.;Hi+there%2C+I'm+a+learner.;Hi+there%2C+I'm+a+musician.)
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge& alt="Website Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Montekkundan&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h2>About me</h2>
 
