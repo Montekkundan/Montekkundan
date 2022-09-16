@@ -24,13 +24,13 @@
 
 I am a Student and Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-I am Montek, currently a Student. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currenly a Student and learning threejs, machine learning, automation testing.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I learn from Youtube and Udemy, and read tech articles.
 
 - :mailbox:How to reach me: [Discord](https://discord.com/users/702170848508903444)
 
