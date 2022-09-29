@@ -74,6 +74,7 @@ I am very keen to learn new technologies and use them to either create something
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
 
+[![@montek's Holopin board](https://holopin.io/api/user/board?user=montek)](https://holopin.io/@montek)
 </div>
 
 
