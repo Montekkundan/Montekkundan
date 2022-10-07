@@ -68,11 +68,6 @@ I am very keen to learn new technologies and use them to either create something
 
  <a href="https://app.daily.dev/Montek"><img src="https://github.com/Montekkundan/Montekkundan/blob/main/devcard.svg" img width="300" alt="Montek's Dev Card"/></a>
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Montekkundan&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montekkundan&show_icons=true&theme=merko)
 
 [![@montek's Holopin board](https://holopin.io/api/user/board?user=montek)](https://holopin.io/@montek)
 </div>
