@@ -6,7 +6,7 @@
   <a href="https://portfolio-sandy-iota-56.vercel.app/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge& alt="Website Badge"/>
   </a>
-   <a href="https://portfolio-sandy-iota-56.vercel.app/">
+   <a href="https://www.montek.dev">
     <img src="https://img.shields.io/badge/DevLog-green?style=for-the-badge& alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/montek-k-a74845232">
